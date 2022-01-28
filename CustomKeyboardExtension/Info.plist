@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Zombie_Holocaust.ttf</string>
+		<string>TooneyNoodleNF.ttf</string>
+		<string>SCRIPTIN.ttf</string>
+		<string>RacingSansOne-Regular.ttf</string>
+		<string>PrinceValiant.ttf</string>
+		<string>Precious.ttf</string>
+		<string>PixelFJVerdana12pt.ttf</string>
+		<string>Pinewood.ttf</string>
+		<string>Pentagon.ttf</string>
+		<string>Parisienne-Regular.ttf</string>
+		<string>Monoton-Regular.ttf</string>
+		<string>MetalMacabre.ttf</string>
+		<string>MessingLettern.ttf</string>
+		<string>Medici Text.ttf</string>
+		<string>LoversQuarrel-Regular.ttf</string>
+		<string>lexo.ttf</string>
+		<string>Kamikaze3DGradient.ttf</string>
+		<string>Kamikaze-Italic.ttf</string>
+		<string>JeanSunHo.ttf</string>
+		<string>Halo3.ttf</string>
+		<string>Gypsy Curse.ttf</string>
+		<string>FrederickatheGreat-Regular.ttf</string>
+		<string>Facon.ttf</string>
+		<string>ExtraOrnamentalNo2.ttf</string>
+		<string>Eutemia.ttf</string>
+		<string>ElsieSwashCaps-Black.ttf</string>
+		<string>electroharmonix.ttf</string>
+		<string>earwig factory rg.ttf</string>
+		<string>Devonshire-Regular.ttf</string>
+		<string>Curely-Free Typeface.ttf</string>
+		<string>ChubbyDotty.ttf</string>
+		<string>ChopinScript.ttf</string>
+		<string>cenobyte.ttf</string>
+		<string>Canterbury.ttf</string>
+		<string>CandyTime.ttf</string>
+		<string>burnstown dam.ttf</string>
+		<string>Archistico_Simple.tff</string>
+		<string>Alpine.ttf</string>
+		<string>AlexBrush-Regular.ttf</string>
+		<string>Adine Kirnberg.ttf</string>
+	</array>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>Keyboard For Job</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>XPC!</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>NSExtension</key>
+	<dict>
+		<key>NSExtensionAttributes</key>
+		<dict>
+			<key>IsASCIICapable</key>
+			<false/>
+			<key>PrefersRightToLeft</key>
+			<false/>
+			<key>PrimaryLanguage</key>
+			<string>en-US</string>
+			<key>RequestsOpenAccess</key>
+			<false/>
+		</dict>
+		<key>NSExtensionPointIdentifier</key>
+		<string>com.apple.keyboard-service</string>
+		<key>NSExtensionPrincipalClass</key>
+		<string>$(PRODUCT_MODULE_NAME).KeyboardViewController</string>
+	</dict>
+</dict>
+</plist>
